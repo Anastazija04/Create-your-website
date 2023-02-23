@@ -1,0 +1,70 @@
+/* index page */
+.background {
+  background-image: url(https://media.istockphoto.com/photos/laptop-in-the-office-picture-id523870889?k=6&m=523870889&s=170667a&w=0&h=fk6FDUqMx_xkSJ1fbg_iTQBxv-q9tmOBLOG1_a4oOlI=);
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+}
+/* form page - page2 */
+.bg-picture {
+  background-image: url(https://i0.wp.com/salamaa.co.ke/wp-content/uploads/2020/01/best-office-plants-1080x565-1.jpg?fit=1080%2C565&ssl=1);
+  background-size: cover;
+}
+
+.margin-auto {
+  margin: 15% auto;
+}
+
+.border {
+  border: 2px solid white;
+}
+
+.border-radius {
+  border-radius: 5px;
+}
+
+select,
+input,
+textarea {
+  width: 100%;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+}
+
+/* havbar */
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: white !important;
+  background-color: transparent !important;
+}
+
+/* customer page - page3 */
+
+.relative {
+  height: 30%;
+  width: 100%;
+}
+
+.cover-image {
+  width: 100%;
+  height: 33rem;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.topLeft1 {
+  top: 20%;
+  left: 45%;
+}
+
+.topLeft2 {
+  top: 40%;
+  left: 30%;
+}
+
+.padding-margin {
+  margin-top: -85px;
+  padding-top: 85px;
+}
